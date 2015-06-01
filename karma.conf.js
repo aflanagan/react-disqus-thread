@@ -20,7 +20,7 @@ module.exports = function(config) {
       cache: true,
       module: {
         loaders: [
-          {test: /\.js$/, loader: 'jsx-loader'}
+          {test: /\.js/, loader: 'jsx-loader'}
         ]
       }
     },

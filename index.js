@@ -1,1 +1,1 @@
-module.exports = require('./lib/disqus-thread');
+module.exports = require('./lib/disqus-thread.jsx');
